@@ -3,7 +3,7 @@
 ### This application was built in the process of learning how to build a React App.   
 ### I wanted a scenario where I could build something more useful than a Hello World
 
-<img src="../master/readMeImages/PegaLauncher_Anim2.gif" width="800">
+<img src="../master/readMeImages/PegaLauncher_Anim2.gif?raw=true"" width="800">
 
 Clicking on the "hamburger" opens a sidebar with *server specific* to:
 * **Demo Support materials found on Pixar**:
